@@ -9,8 +9,8 @@ find 검색조건에 맞는 파일을 지정한 위치에서 찾는 것을 말�
 -user: 로그인 아이디 소유주 대상(root, centos) ex: -user centos  
 -perm: 지정한 접근 권한과 일치하는 파일 검색  
 -exec: 명령어를 수행하라는 뜻 -exec cp {} \;
-
-
+  
+  
 ```linux
 #echo "명령어 옵션 확인"
 find -help
